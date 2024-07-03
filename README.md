@@ -15,8 +15,6 @@ A web-based task management system with user authentication, task creation, comp
 
 *Home Index page, description of what the app is about and its features*
 
-*Task Management System*
-
 Home | Register / Login | Taks | 
 
 Task Index page, get task data from database, there is also sort by feature where user can sort their tasks based on title <p></p>
